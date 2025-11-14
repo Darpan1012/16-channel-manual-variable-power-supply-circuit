@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCADv6")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_MMBFJ309LT1G/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "1546551-3")(type "KiCad")(uri "${KIPRJMOD}/libraries/1546551-3")(options "")(descr ""))
+  (lib (name "LM317LDR2G")(type "KiCad")(uri "${KIPRJMOD}/libraries/LM317LDR2G")(options "")(descr ""))
+  (lib (name "3362P-1-103")(type "KiCad")(uri "${KIPRJMOD}/libraries/3362P-1-103")(options "")(descr ""))
+  (lib (name "1-1825058-9")(type "KiCad")(uri "${KIPRJMOD}/libraries/1-1825058-9")(options "")(descr "SPST slide switch 8P"))
+  (lib (name "TNI logo")(type "KiCad")(uri "${KIPRJMOD}/libraries/TNI logo")(options "")(descr ""))
+  (lib (name "qr code")(type "KiCad")(uri "${KIPRJMOD}/libraries/qr code")(options "")(descr ""))
+)
